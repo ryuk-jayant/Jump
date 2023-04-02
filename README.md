@@ -12,7 +12,9 @@
   
 - <h3>How to use?</h3>
    1) Go to the directory you want to bookmark.
+   
    2) Run **Save.sh "Bookmark_name"**.
+   
    3) Now you can jump to this directory from anywhere using **go.sh "Bookmark_name"**.
-
+ 
  Do help me make it more user friendly and purposeful

@@ -4,13 +4,15 @@
 
 
 - <h3>Installation</h3>
-  1)just clone the repo and copy sh files to bin directory on your machine.
+
+  1) just clone the repo and copy sh files to bin directory on your machine.
   
-  2)Alter the shell script and replace the **username** "JKJ-ryuk" with your own username.
+  2) Alter the shell script and replace the **username** "JKJ-ryuk" with your own username.
   
-  3)and done
+  3) and done
   
 - <h3>How to use?</h3>
+
    1) Go to the directory you want to bookmark.
    
    2) Run **Save.sh "Bookmark_name"**.
